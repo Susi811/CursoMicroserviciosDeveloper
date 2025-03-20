@@ -5,6 +5,7 @@ public class Client {
 	private String name;
 	private String email;
 	private String address;
+	
 	public long getId() {
 		return id;
 	}
