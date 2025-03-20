@@ -1,0 +1,8 @@
+package com.proa.app.feign;
+
+import org.springframework.cloud.openfeign.FeignClient;
+
+@FeignClient(name="micro-client", url="http://localhost:8081/client")
+public interface IFeignClientM {
+
+}

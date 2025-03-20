@@ -1,0 +1,8 @@
+package com.proa.app.feign;
+
+import org.springframework.cloud.openfeign.FeignClient;
+
+@FeignClient
+public interface IFeignClientM {
+
+}

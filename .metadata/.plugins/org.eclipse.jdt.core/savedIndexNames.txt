@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\Users\Netec\Desktop\proyectosCurso\.metadata\.plugins\org.eclipse.jdt.core
+3476382432.index
+3073527167.index
+1865797976.index
+3918804637.index
